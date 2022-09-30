@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sakibulhassanomi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c & c++
+- 🌱 I’m currently learning c ,python & c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sakibomi021@gmail.com
+
 
 <!---
 sakibulhassanomi/sakibulhassanomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

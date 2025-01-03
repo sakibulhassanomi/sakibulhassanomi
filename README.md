@@ -9,7 +9,7 @@ On my GitHub, you'll find a collection of my projects, ranging from experimental
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to discuss potential collaborations or simply chat about tech!
 
-Skills: C / C++ / PYTHON / HTML / CSS
+Skills: C / C++ / PYTHON / HTML / CSS / JAVASCRIPT / ML MODELS
 
 - 🔭 I’m currently working on my own research paper 
 - 🌱 I’m currently learning Database and Machine Learning 
